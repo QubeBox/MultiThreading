@@ -4,10 +4,6 @@
 - Roll number - 102103283
 - Group - 3COE10
 
-## What is multi threading
-
-
-
 ## Objective
 The objective of this code is to demonstrate multi-threaded matrix multiplication in Python using numpy and threading libraries. The goal is to compare the performance of matrix multiplication using different numbers of threads.
 

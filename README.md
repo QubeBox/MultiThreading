@@ -30,5 +30,20 @@ Usage
 Install the required libraries using pip install numpy pandas matplotlib.
 Run the code to perform multi-threaded matrix multiplication and compare the performance for different numbers of threads.
 
+| Threads | Time (sec) |
+| ------- | ---------- |
+| 1       | 13.351340  |
+| 2       | 12.292459  |
+| 3       | 12.760156  |
+| 4       | 12.333199  |
+| 5       | 12.224955  |
+| 6       | 12.346241  |
+| 7       | 11.969289  |
+| 8       | 12.319016  |
+
 ## Graphs
 ![Output Graph](ExecutionTime.png)
+
+## CPU usage 
+![](CPU0_5.png)
+![](CPU6_11.png)

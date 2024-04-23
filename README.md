@@ -27,8 +27,8 @@ The code measures the time taken for matrix multiplication using different numbe
 - ### Results Display
 The code prints the time taken by each number of threads for matrix multiplication and stores the results in a dictionary (results).
 Usage
-Install the required libraries using pip install numpy pandas matplotlib.
-Run the code to perform multi-threaded matrix multiplication and compare the performance for different numbers of threads.
+
+- Threads vs Time Taken
 
 | Threads | Time (sec) |
 | ------- | ---------- |
@@ -41,9 +41,9 @@ Run the code to perform multi-threaded matrix multiplication and compare the per
 | 7       | 11.969289  |
 | 8       | 12.319016  |
 
-## Graphs
+- Output Graph
 ![Output Graph](ExecutionTime.png)
 
-## CPU usage 
+- CPU core utilization
 ![](CPU0_5.png)
 ![](CPU6_11.png)

@@ -28,7 +28,7 @@ The code measures the time taken for matrix multiplication using different numbe
 The code prints the time taken by each number of threads for matrix multiplication and stores the results in a dictionary (results).
 Usage
 
-- Threads vs Time Taken
+- #### Threads vs Time Taken
 
 | Threads | Time (sec) |
 | ------- | ---------- |
@@ -41,9 +41,9 @@ Usage
 | 7       | 11.969289  |
 | 8       | 12.319016  |
 
-- Output Graph
+- #### Output Graph
 ![Output Graph](ExecutionTime.png)
 
-- CPU core utilization
+- #### CPU core utilization
 ![](CPU0_5.png)
 ![](CPU6_11.png)

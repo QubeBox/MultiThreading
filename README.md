@@ -47,3 +47,6 @@ Usage
 - #### CPU core utilization
 ![](CPU0_5.png)
 ![](CPU6_11.png)
+
+## Conclusion
+The results demonstrate that multi-threading can significantly reduce the time taken for matrix multiplication, especially as the number of threads increases. However, there may be diminishing returns beyond a certain number of threads due to overhead and resource limitations.
